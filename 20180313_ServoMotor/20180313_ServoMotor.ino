@@ -2,7 +2,7 @@
 #include <SoftwareSerial.h>
 
 Servo myservobottom;
-Servo myservotop;         //50 ile 180 arasında calısır.
+Servo myservotop;        
 
 int counterInterrupt = 0;
 
